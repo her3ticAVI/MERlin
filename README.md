@@ -8,4 +8,4 @@ USAGE: `python MERlin.py`
 
 Logs will be deposited into \\machinename\Cauldron\ and C:\\Cauldron
 
-![[RunningMERlin](./images/Merlin.PNG)
+![RunningMERlin](./images/Merlin.PNG)
