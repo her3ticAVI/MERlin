@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    ![MERlin](./images/bannermerlin.png)
+  <a href="https://github.com/her3ticAVI/MERlin"><img src="./images/bannermerlin.png" alt="MERlin"></a>
   <br>
   <br>
 </h1>
