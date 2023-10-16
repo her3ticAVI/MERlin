@@ -8,6 +8,9 @@ USAGE
 <br>
 
 ```
+git clone https://github.com/her3ticAVI/MERlin/
+```
+```
 sudo python MERlin.py
 ```
 ```
