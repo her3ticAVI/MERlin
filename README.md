@@ -33,13 +33,13 @@ Script can be found in \\machinename\Cauldron\
 Logs will be deposited into \\machinename\Cauldron\
 ```
 
+<p align="center">
+    <img src="./images/Merlin.PNG" alt="Running MERlin">
+</p>
+
 ## Liscence
 
 ![License](https://img.shields.io/github/license/her3ticAVI/MERlin?style=for-the-badge)
 
 ## Creator
 Ben Bowman | her3ticAVI
-
-<p align="center">
-    <img src="./images/Merlin.PNG" alt="Running MERlin">
-</p>
