@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/her3ticAVI/MERlin"><img src="./images/bannermerlin.png" alt="MERlin"></a>
+  <a href="https://github.com/her3ticAVI/MERlin"><img src="./images/MERLIN.png" alt="MERlin"></a>
   <br>
 </h1>
 
