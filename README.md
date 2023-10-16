@@ -28,4 +28,6 @@ Script can be found in \\machinename\Cauldron\
 Logs will be deposited into \\machinename\Cauldron\
 ```
 
-![RunningMERlin](./images/Merlin.PNG)
+<p align="center">
+    <img src="./images/Merlin.PNG" alt="Running MERlin">
+</p>
