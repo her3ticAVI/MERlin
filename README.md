@@ -1,6 +1,4 @@
-<h3 align="center">
-    ![MERlin](./images/banner.png)
-</h3>
+![MERlin](./images/banner.png)
 
 MERlin is a simple Python tool that allows you to quickly gather Event logs from all or multiple workstations on a Domain.
 This tool must be run as Admin on Domain Controller.
