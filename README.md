@@ -2,7 +2,6 @@
   <br>
   <a href="https://github.com/her3ticAVI/MERlin"><img src="./images/bannermerlin.png" alt="MERlin"></a>
   <br>
-  <br>
 </h1>
 
 MERlin is a simple Python tool that allows you to quickly gather Event logs from all or multiple workstations on a Domain.
