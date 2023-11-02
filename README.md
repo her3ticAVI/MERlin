@@ -14,13 +14,6 @@ This tool must be run as Admin on Domain Controller.
 ```
 git clone https://github.com/her3ticAVI/MERlin/
 ```
-```
-sudo python MERlin.py
-```
-```
-Once tool is deployed you can create a Group Policy Object
-for everyone and run the ps1 file within Cauldron.
-```
 
 ## Location
 
