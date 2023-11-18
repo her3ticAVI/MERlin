@@ -4,6 +4,8 @@
   <br>
 </h1>
 
+WARNING: A rework is expected in the near future turning this tool into not only a log retrival tool, but a blue team tool. The hopes is that it will be fully equipt to harden boxes and retrieve logs.
+
 ## Overview
 
 MERlin is a simple Python tool that allows you to quickly gather Event logs from all or multiple workstations on a Domain.
